@@ -12,17 +12,17 @@ html {
     width: 100%;
   }
 
-.card{
+.card {
   overflow: hidden;
   border: 1px solid #ccc;
   border-radius: 0 6px 6px;
 }
 
-.card-body{
+.card-body {
   padding: .2rem 1rem;
 }
 
-.card-title{
+.card-title {
   margin: 0;
   padding: .3rem 1rem;
   position: absolute;
@@ -31,8 +31,8 @@ html {
   width: 100%;
 }
 
-.card-label{
-  padding: .3rem 1rem .3rem calc(1rem - 4rem);
+.card-label {
+  padding: .3rem 1rem .3rem calc(1rem - 4px);
   border-left: 4px solid green;
   background-color: rbga(225, 225, 225, .6);
 }
